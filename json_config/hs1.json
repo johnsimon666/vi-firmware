@@ -1,0 +1,9 @@
+{   "name": "hs1",
+    "raw_can_mode": "unfiltered",
+    "buses": {
+        "hs": {
+            "controller": 1,
+            "speed": 500000
+        }
+    }
+}

@@ -1,0 +1,11 @@
+openxc-generate-firmware-code --message-set json_config/hs1.json > src/signals.cpp
+
+PLATFORM=FORDBOARD make
+
+To fix python errors in Vagrant:
+sudo pip install -U openxc
+
+in Windows:
+pip install -U openxc
+
+
